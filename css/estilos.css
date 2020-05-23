@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    overflow-x: hidden;
+
+}
+
+/*HEADER*/
+
+#header{
+    background: url(../img/banner.png);
+    min-height: 700px;
+    width: 100%;
+    z-index: 1;
+}
+.textos-hero h1{
+    overflow: hidden;
+}
+
+.titulo{
+    background-color: white;
+    z-index: 2;
+}
+
+.hero{
+    background-image:  url("../img/banner.png");
+    width: 100%;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    overflow: hidden;
+}
+
+.textos-hero{
+    height: 500px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textos-hero h2{
+    font-size: 60px;
+    overflow-y: hidden;
+    color: #FD966D;
+}
+
+.textos-hero p{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.textos-hero a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px 15px;
+    background: #a18cd1;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.svg-hero{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.menu{
+    width: 90%;
+    margin: 0px auto;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+footer p{
+    text-align: center;
+}
+
+#mapa{
+    margin: 20px auto;
+}
