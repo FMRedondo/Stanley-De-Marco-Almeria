@@ -76,6 +76,10 @@
     margin: 0px auto;
 }
 
+.menu h2{
+    overflow: hidden;
+}
+
 footer{
     background-color: black;
     color: white;
@@ -89,4 +93,92 @@ footer p{
 
 #mapa{
     margin: 20px auto;
+}
+
+
+/* COLORES DEL MENU*/
+
+.menu__category-heading:before, .menu__category-heading:after{
+    background-color: white !important;
+}
+
+#ach{
+    background-color:#b03f3b !important;
+    
+}
+
+#ach .menu__category-name{
+    color: white !important;
+}
+
+#ich{
+    background-color:#c1b179 !important;
+}
+
+#ich .menu__category-name{
+    color: white !important;
+}
+
+#pch{
+    background-color:#007894 !important;
+}
+
+#pch .menu__category-name{
+    color: white !important;
+}
+
+#pech{
+    background-color:#d88f4e !important;
+}
+
+#pech .menu__category-name{
+    color: white !important;
+}
+
+#rtch{
+    background-color:#c3593f !important;
+}
+
+#rtch .menu__category-name{
+    color: white !important;
+}
+
+#nech{
+    background-color:#d5c241 !important;
+}
+
+#nech .menu__category-name{
+    color: white !important;
+}
+
+#pcrch{
+    background-color:#305889 !important;
+}
+
+#pcrch .menu__category-name{
+    color: white !important;
+}
+
+#pahch{
+    background-color:#c98da4 !important;
+}
+
+#pahch .menu__category-name{
+    color: white !important;
+}
+
+#cch{
+    background-color:#007894 !important;
+}
+
+#cch .menu__category-name{
+    color: white !important;
+}
+
+#pesch{
+    background-color:#c1b179 !important;
+}
+
+#pesch .menu__category-name{
+    color: white !important;
 }
