@@ -7,6 +7,9 @@
 }
 
 /*HEADER*/
+.menu__product-name{
+    font-size: 21px !important;
+}
 
 .hero{
     background: url(../img/banner1.jpg);
