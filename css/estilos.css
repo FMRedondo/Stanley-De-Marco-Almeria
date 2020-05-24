@@ -7,9 +7,13 @@
 }
 
 /*HEADER*/
+.menu__product-name{
+    font-size: 21px !important;
+}
 
-#header{
-    background: url(../img/banner.png);
+.hero{
+    background: url(../img/banner1.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
     min-height: 700px;
     width: 100%;
     z-index: 1;
