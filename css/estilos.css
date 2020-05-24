@@ -82,6 +82,7 @@
 
 footer{
     background-color: black;
+    width: 100%;
     color: white;
     padding: 20px;
     margin-top: 30px;
@@ -95,6 +96,14 @@ footer p{
     margin: 20px auto;
 }
 
+#vinos{
+    margin-top: 120px;
+}
+
+#cvinos{
+    margin-top: 10px;
+    
+}
 
 /* COLORES DEL MENU*/
 
