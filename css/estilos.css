@@ -101,6 +101,9 @@ footer p{
 .menu__category-heading:before, .menu__category-heading:after{
     background-color: white !important;
 }
+.menu__product-description{
+    color:black
+}
 
 #ach{
     background-color:#b03f3b !important;
@@ -181,4 +184,49 @@ footer p{
 
 #pesch .menu__category-name{
     color: white !important;
+}
+
+#acp{
+    background-color:#d79f9d !important;
+}
+
+
+#icp{
+    background-color: #E0D8BC !important;
+}
+
+#pcp{
+    background-color: #7FBBC9 !important;
+}
+
+#pecp{
+    background-color: #EBC7A6 !important;
+}
+
+#rtcp{
+    background-color: #E1AC9F !important;
+}
+
+#necp{
+    background-color: #EAE0A0 !important;
+}
+
+#pcrcp{
+    background-color: #97ABC4 !important;
+}
+
+#pahcp{
+    background-color: #E4C6D1 !important;
+}
+
+#ccp{
+    background-color: #7FBBC9 !important;
+}
+
+#pescp{
+    background-color: #E0D8BC !important;
+}
+
+.menu__product-description{
+    color:black !important;
 }
